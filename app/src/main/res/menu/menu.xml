@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="culi"
+        android:id="@+id/i1"
+        android:icon="@drawable/p1"
+        />
+    <item android:title="cherry"
+        android:id="@+id/i2"
+        android:icon="@drawable/p2"
+        />
+    <item android:title="moka"
+        android:id="@+id/i3"
+        android:icon="@drawable/ic_baseline_hardware_24"
+        />
+</menu>
